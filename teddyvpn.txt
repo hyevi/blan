@@ -1,0 +1,7 @@
+#profile-title: 🐻 Teddy VPN
+vless://52a983e1-a054-403a-a3a0-8c9da450bf90@converterpl.teddylink.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=converterpl.teddylink.com&fp=qq&pbk=fnaNK8kEDdMre3XU7liNoetMqXvNIZnhbViIILq_aDs&sid=1ca4299ca572b1&type=tcp#🇵🇱 Польша ⚡️
+vless://52a983e1-a054-403a-a3a0-8c9da450bf90@converterde.teddylink.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=converterde.teddylink.com&fp=qq&pbk=HTbjCjb5wtAQ0zhu5PWnvZNK-MYLjVzqqzasXKUPdkY&sid=1dc2199aa512c0&type=tcp#🇩🇪 Германия ⚡️
+vless://52a983e1-a054-403a-a3a0-8c9da450bf90@eeconverter.teddylink.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eeconverter.teddylink.com&fp=qq&pbk=fQvafZ0GP7J-BM4z0Y3zcnu9iNTdbC-eto3XccpK_Ec&sid=1ca2119aa517c7&type=tcp#🇪🇪 Эстония
+vless://52a983e1-a054-403a-a3a0-8c9da450bf90@converterat.teddylink.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=converterat.teddylink.com&fp=qq&pbk=mCAf5EVlGi4vhM6rcSYuWsRD0J9GssZyG8INSf-zDg8&sid=55a2719ca517b4&type=tcp#🇦🇹 Австрия
+vless://52a983e1-a054-403a-a3a0-8c9da450bf90@converteruk.teddylink.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=converteruk.teddylink.com&fp=qq&pbk=dCnYprTjUR6_ZYcqx6wLbS73M_1pI7JcXLKM06HlpmI&sid=1722c19ca527c8&type=tcp#🇬🇧 Англия
+vless://52a983e1-a054-403a-a3a0-8c9da450bf90@converterus.teddylink.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=converterus.teddylink.com&fp=qq&pbk=_ejCrbP9ZqdScdJZPqqp1F2m7f1YVWYxxkyqeb4hGXE&sid=3ba2299ca527c1&type=tcp#🇺🇸 США
