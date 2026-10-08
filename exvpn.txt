@@ -1,0 +1,13 @@
+#profile-title: EX VPN
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@150.251.143.44:8444?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=NzExXvFV3fCDZapFDxB3yQT8DBUZI5zWK8-n_qjXKCo&sid=096816ee6a84b61e&type=xhttp&path=%2Fexvpn-wifi&mode=stream-up#🇪🇺 Auto WiFi
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@150.251.143.44:9444?encryption=none&security=tls&sni=hy2.exvpn.org&fp=chrome&alpn=h3&type=xhttp&path=%2Fexvpn-wifi-h3&mode=packet-up#🇳🇱 Нидерланды
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@150.251.143.44:8443?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=NzExXvFV3fCDZapFDxB3yQT8DBUZI5zWK8-n_qjXKCo&sid=096816ee6a84b61e&type=grpc&serviceName=grpc#🇳🇱 Нидерланды 2
+hysteria2://6e3e7688-84a3-425a-ba71-fae8b4a35554@150.251.143.44:9443?insecure=1#🇳🇱 Нидерланды 3
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@132.243.66.56:8444?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=NzExXvFV3fCDZapFDxB3yQT8DBUZI5zWK8-n_qjXKCo&sid=096816ee6a84b61e&type=xhttp&path=%2Fexvpn-wifi&mode=stream-up#🇪🇪 Эстония
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@132.243.66.56:9444?encryption=none&security=tls&sni=hy2.exvpn.org&fp=chrome&alpn=h3&type=xhttp&path=%2Fexvpn-wifi-h3&mode=packet-up#🇪🇪 Эстония 2
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@132.243.66.56:8443?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=NzExXvFV3fCDZapFDxB3yQT8DBUZI5zWK8-n_qjXKCo&sid=096816ee6a84b61e&type=grpc&serviceName=grpc#🇪🇪 Эстония 3
+hysteria2://6e3e7688-84a3-425a-ba71-fae8b4a35554@132.243.66.56:9443?insecure=1#🇪🇪 Эстония 4
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@179.254.127.115:8444?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=NzExXvFV3fCDZapFDxB3yQT8DBUZI5zWK8-n_qjXKCo&sid=096816ee6a84b61e&type=xhttp&path=%2Fexvpn-wifi&mode=stream-up#🇩🇪 Германия
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@179.254.127.115:9444?encryption=none&security=tls&sni=hy2.exvpn.org&fp=chrome&alpn=h3&type=xhttp&path=%2Fexvpn-wifi-h3&mode=packet-up#🇩🇪 Германия 2
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@179.254.127.115:8443?encryption=none&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=NzExXvFV3fCDZapFDxB3yQT8DBUZI5zWK8-n_qjXKCo&sid=096816ee6a84b61e&type=grpc&serviceName=grpc#🇩🇪 Германия 3
+hysteria2://6e3e7688-84a3-425a-ba71-fae8b4a35554@179.254.127.115:9443?insecure=1#🇩🇪 Германия 4
